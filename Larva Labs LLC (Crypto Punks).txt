@@ -6,17 +6,7 @@ Selected as the #3 top NFTs on OpenSea, ranked by volume, floor price and other 
 
 No license or other terms found on OpenSea about or details tab for these NFT sales.  Google search did not reveal a definitive license contract specific to Crypto Punks. It has been reported that Larva Labs adopted the NFT License ,https://www.nftlicense.org/> (set forth below) for CryptoPunks and Autoglyphs in 2019 in a Discord post by co-founder, John Watkinson (@pents90). https://www.theouterrealm.io/blog/cryptopunks-copyrights  Research has not yet revealed whether this declaration of rights and limitations happened after the initial NFT minting, and after contract formation. Issues: contract formation, contract modification, consideration. 
 
-Yuga Labs, LLC, the company behind Bored Apes Yacht Club (BAYC), announced the acquisition of the intellectual property rights (IP) of CryptoPunks with the intention of transferring ownership of the IP rights in the digital asset (image) to Crypto Punk NFT owners. Yuga Labs, LLC has stated its intention to trnasfer 'owenrship' of the Crypto Punks assets to NFT owners. It is unclear how Yuga Labs, LLC will modify an existing license terms with unique NFT owners, or how to modify the contracts currently recorded on the blockchain. 
-
-Possible approaches:  
-
-- New tokenized contract linked to current NFT owner token which Crypto Punk owners can 'accept' linking to new terms posted on a website or IPFS, so there can be 'offer' and 'acceptance' occur between IP owner (Yuga Labs, LLC) and NFT owner. 
-
--New tokenized contract linked to current NFT owner token which Crypto Punk owners can 'accept' assignment of all rights in linked digital asset with the terms in a new token on the blockchain.  'Consideration' could add value to the project for Yuga Labs and NFT owners. 
-
--Consensus class action filed by represntative NFT owner to declare IP rights of the original project with a settlement whereby  Yuga Labs agrees to a full assignment of the digital asset. 
-
-Issues include:  Identifying the original license terms; contract modification. 
+Yuga Labs, LLC, the company behind Bored Apes Yacht Club (BAYC), announced the acquisition of the intellectual property rights (IP) of CryptoPunks with the intention of transferring ownership of the IP rights in the digital asset (image) to Crypto Punk NFT owners. It is unclear how Yuga Labs will modify an existing license terms with unique NFT owners, or how to modify the contracts currently recorded on the blockchain. Issues include:  Identifying the original license terms; contract modification. 
 
 Below is the unconfirmed "NFT License" allegedly posted on Discord  by co-founder, John Watkinson found at https://www.nftlicense.org/
 
