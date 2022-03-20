@@ -1,7 +1,6 @@
 # Smart Contract Assignment & Licenses
- Smart Contract Assignment & Licenses
 
- NFT & Other Smart Contract Licenses 
+NFT Digital Asset License Project.
  
 Many smart contract projects are in the NFT space. This project aims to document smart contract licenses agreements of popular projects. The copyright, if any, to these licenses belong to the copyright holder. Comments, notations, and mark-ups of these documents are intended to spark discussion, debate, and fair commentary by the contract owners, the licenses of the projects, the legal community, and those interested in moving smart contracts and blockchain forward. 
 
