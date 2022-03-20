@@ -1,4 +1,4 @@
-# Smart Contract Assignment & Licenses
+#  Linked Digital Asset Contracts
 
 NFT Linked Digital Asset License Project.
  
