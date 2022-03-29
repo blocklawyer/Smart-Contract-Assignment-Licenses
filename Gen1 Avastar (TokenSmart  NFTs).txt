@@ -1,0 +1,56 @@
+Cut & paste March 29, 2020
+
+https://nft.substack.com/p/the-digital-asset-ownership-license?s=r
+
+............................
+The Digital Asset Ownership License
+Our attempt at "True Ownership" of Digital Assets. You have a license to the copyright and commercial use of each Avastar you own.
+
+Jim McNelis
+Feb 4, 2020
+The following license will be published on our website and attached to each Gen1 Avastar - Launching on Opensea on February 7th!
+
+
+
+Digital Asset Ownership License
+Version 1.0
+
+Last Revised: February 4th, 2020
+
+1. Definitions.
+“Art” means any art, design, and drawings that may be associated with an NFT that you Own.
+
+“Complete Art” means the complete rendered image of the Avastar, and does not include the individual SVG layers that make up the Complete Art. 
+
+"NFT" means any blockchain-tracked, non-fungible token, such as those conforming to the ERC-721 standard.
+
+“Own” means, with respect to an NFT, an NFT that you have purchased or otherwise rightfully acquired from a legitimate source, where proof of such purchase is recorded on the relevant blockchain.
+
+“Extensions” means third party designs that: are intended for use as extensions or overlays to the Art.
+
+“Purchased NFT” means an NFT that you Own.
+
+“Third Party IP” means any third party patent rights (including, without limitation, patent applications and disclosures), copyrights, trade secrets, trademarks, know-how or any other intellectual property rights recognized in any country or jurisdiction in the world.
+
+2. Ownership.
+You acknowledge and agree that nft42 (or, as applicable, its licensors) owns all legal right, title and interest in and to the underlying Art, and all intellectual property rights therein. The rights that you have in and to the Art are limited to those described in this License. nft42 reserves all rights in and to the Art not expressly granted to you in this License.
+
+3. License.
+a. General Use. Subject to your continued compliance with the terms of this License, nft42 grants you a worldwide, non-exclusive, non-transferable, royalty-free license to use, copy, and display the Complete Art for your Purchased NFTs, along with any Extensions that you choose to create or use, solely for the following purposes: (i) for your own personal, non-commercial use; (ii) as part of a marketplace that permits the purchase and sale of your NFTs, provided that the marketplace cryptographically verifies each NFT owner’s rights to display the Complete Art for their Purchased NFTs to ensure that only the actual owner can display the Complete Art; or (iii) as part of a third party website or application that permits the inclusion, involvement, or participation of your NFTs, provided that the website/application cryptographically verifies each NFT owner’s rights to display the Complete Art for their Purchased NFTs to ensure that only the actual owner can display the Complete Art, and provided that the Complete Art is no longer visible once the owner of the Purchased NFT leaves the website/application.
+
+b. Commercial Use. Subject to your continued compliance with the terms of this License, nft42 grants you a limited, worldwide, exclusive, transferable license to use, copy, and display the Complete Art for your Purchased NFTs for commercial purposes that includes, contains, or consists of the Complete Art for your Purchased NFTs (“Commercial Use”). 
+
+4. Restrictions.
+You agree that you may not, nor permit any third party to do or attempt to do any of the foregoing without nft42’s express prior written consent in each case:(i) use the Art for your Purchased NFTs in connection with images, videos, or other forms of media that depict hatred, intolerance, violence, cruelty, or anything else that could reasonably be found to constitute hate speech or otherwise infringe upon the rights of others; To the extent that Art associated with your Purchased NFTs contains Third Party IP (e.g., licensed intellectual property from a celebrity, athlete, or other public figure), you understand and agree as follows: (w) that you will not have the right to use such Third Party IP in any way except as incorporated in the Complete Art, and subject to the license and restrictions contained herein; (x) that the Commercial Use license in Section 3(b) above will not apply; (y) that, depending on the nature of the license granted from the owner of the Third Party IP, nft42 may need to pass through additional restrictions on your ability to use the Complete Art; and (z) to the extent that nft42 informs you of such additional restrictions in writing (email is permissible), you will be responsible for complying with all such restrictions from the date that you receive the notice, and that failure to do so will be deemed a breach of this license. The restriction in Section 4 will survive the expiration or termination of this License.
+
+5. Terms of License.
+The license granted in Section 3 above applies only to the extent that you continue to Own the applicable Purchased NFT. If at any time you sell, trade, donate, give away, transfer, or otherwise dispose of your Purchased NFT for any reason, the license granted in Section 3 will immediately expire with respect to those NFTs without the requirement of notice, and you will have no further rights in or to the Complete Art for those NFTs. Please email contact@nft42.com for any inquiries.
+
+Please update if you are the project owner or your research reveals more info. 
+
+..................
+
+RTFKT Platform Terms of Services
+Last Updated: November 18, 2021
+
+https://nft.substack.com/p/the-digital-asset-ownership-license?s=r
